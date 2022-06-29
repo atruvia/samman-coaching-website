@@ -33,6 +33,7 @@ Mark each statement below as true or false. After the session, come back to this
 | 18| You should refactor well-designed code not just ugly code.                                                                |    |     |
 | 19| Refactoring is a way of paying off technical debt.                                                                        |    |     |
 | 20| You can only refactor if you have test coverage over 80%.                                                                 |    |     |
+| 21| After every four sprints you should do a refactoring sprint.                                                              |    |     |
 
 
 

@@ -16,7 +16,7 @@ affiliation: atruvia
 - When someone is refactoring the code may be broken for a few days while they do it. (WHY NOT? WHAT WOULD HAPPEN? DID IT EVER HAPPEN TO YOU?)
 - When we invest time in refactoring it saves us time overall.
 - The purpose of refactoring is to make you write code faster.
-- After every four sprints you should do a refactoring sprint. **ADDED BY US to /exercises/warm_up_questions/refactoring_warm_up_questions.html**
+- After every four sprints you should do a refactoring sprint.
 - You can only refactor if you have test coverage over 80%.
 
 ### Concept - Refactoring
