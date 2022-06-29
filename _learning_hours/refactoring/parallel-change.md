@@ -1,7 +1,7 @@
 ---
 theme: refactoring
 title: Parallel Change
-kata: [Bingo](https://github.com/atruvia/Bingo-ParallelChange-Kata) (or any existing code with some internal data structure to change, e.g. Game of Life)
+kata: [Bingo](https://github.com/pfichtner/samman-coaching-kata/tree/master/bingo-refactoring-kata) (or any existing code with some internal data structure to change, e.g. Game of Life)
 difficulty: 3
 author: pfichtner
 affiliation: atruvia
